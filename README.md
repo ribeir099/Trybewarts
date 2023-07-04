@@ -1,4 +1,4 @@
-# Trybe-Project-04-Trybewarts
+# Trybe-Project-Trybewarts
 
 Project developed in the web fundamentals module at trybe
 
